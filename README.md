@@ -10,10 +10,10 @@
 <div align="center">
 
 <sup>$SENTINEL</sup>
-
+![image](https://github.com/Storm99999/Sentinel/assets/87811650/e681053a-3a79-4f94-9973-bbc784305439)
 <a href="https://discord.gg/dWQW7jhHv9">
   <div>
-    ![image](https://github.com/Storm99999/Sentinel/assets/87811650/e681053a-3a79-4f94-9973-bbc784305439)
+    
 
   </div>
   <b>
